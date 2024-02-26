@@ -9,6 +9,7 @@ I created the DeafBlind Manual Blog Website to promote awareness and provide res
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Features](#features)
 - [Credits](#credits)
 - [License](#license)
 
@@ -41,6 +42,14 @@ Explore the DeafBlind Manual Blog:
 - CSS (including CSS Grid)
 - JavaScript
 
+## Features
+
+- Responsive design with CSS Grid
+- JavaScript-based hamburger menu for mobile devices
+- Embedded YouTube videos
+- Customized scrollbar
+- "Go to Top" button for improved navigation
+
 ## Credits
 
 - [Muhammad Ramzan](https://github.com/m-ramzan786) - Project Creator
@@ -55,14 +64,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ![GitHub top language](https://img.shields.io/github/languages/top/m-ramzan786/deafblind)
 ![GitHub license](https://img.shields.io/github/license/m-ramzan786/deafblind)
-
-## Features
-
-- Responsive design with CSS Grid
-- JavaScript-based hamburger menu for mobile devices
-- Embedded YouTube videos
-- Customized scrollbar
-- "Go to Top" button for improved navigation
 
 ## How to Contribute
 
