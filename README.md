@@ -62,8 +62,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Badges
 
-![GitHub top language](https://img.shields.io/github/languages/top/m-ramzan786/deafblind)
-![GitHub license](https://img.shields.io/github/license/m-ramzan786/deafblind)
+![GitHub top language](https://img.shields.io/github/languages/top/m-ramzan786/Deafblind)
+![GitHub license](https://img.shields.io/github/license/m-ramzan786/Deafblind)
 
 ## How to Contribute
 
